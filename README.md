@@ -12,6 +12,12 @@
 - [Apifox](https://docs.apifox.com/apifox-mcp-server)
 - [彩云天气](https://github.com/caiyunapp/mcp-caiyun-weather)
 
+## 其他资源
+
+- [Model Context Protocol](https://modelcontextprotocol.io)
+- [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+- [Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH)
+
 ## 贡献
 
 如果你知道更多国内服务的 MCP Server，请提交 PR 添加。
