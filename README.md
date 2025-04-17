@@ -2,7 +2,7 @@
 
 收集了国内常见服务的 MCP Server。
 
-最后更新于 2025-04-13
+最后更新于 2025-04-17
 
 > 注：文中服务按添加先后顺序排列，并不反映其上线时间。
 
@@ -11,6 +11,7 @@
 - [百度地图](https://lbsyun.baidu.com/faq/api?title=mcpserver/base)
 - [Apifox](https://docs.apifox.com/apifox-mcp-server)
 - [彩云天气](https://github.com/caiyunapp/mcp-caiyun-weather)
+- [七牛云](https://github.com/qiniu/qiniu-mcp-server)
 
 ## 其他资源
 
