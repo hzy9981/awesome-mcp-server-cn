@@ -2,7 +2,7 @@
 
 收集了国内常见服务的 MCP Server。
 
-最后更新于 2025-04-17
+最后更新于 2025-04-21
 
 > 注：文中服务按添加先后顺序排列，并不反映其上线时间。
 
@@ -12,6 +12,9 @@
 - [Apifox](https://docs.apifox.com/apifox-mcp-server)
 - [彩云天气](https://github.com/caiyunapp/mcp-caiyun-weather)
 - [七牛云](https://github.com/qiniu/qiniu-mcp-server)
+- [语雀](https://github.com/HenryHaoson/Yuque-MCP-Server)
+- [HarmonyOS](https://github.com/XixianLiang/HarmonyOS-mcp-server)
+- [Bilibili](https://github.com/34892002/bilibili-mcp-js)
 
 ## 其他资源
 
