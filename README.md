@@ -16,7 +16,8 @@
 - [HarmonyOS](https://github.com/XixianLiang/HarmonyOS-mcp-server)
 - [Bilibili](https://github.com/34892002/bilibili-mcp-js)
 - [阿里云](https://github.com/aliyun/alibaba-cloud-ops-mcp-server)
-- [Vertex AI & DashScope Bridge](https://github.com/hzy9981/vertex-ai-mcp-bridge) - 集成 Google Vertex AI 提示词工程与阿里云 DashScope 的跨云代理服务器。
+- [阿里云 DashScope (百炼)](https://github.com/hzy9981/vertex-ai-mcp-bridge) - 代理调用百炼平台托管的 MCP 工具（如联网搜索）。
+- [Vertex AI Prompt Manager](https://github.com/hzy9981/vertex-ai-mcp-bridge) - 专为 Google Vertex AI 打造的提示词管理与自动化优化服务器。
 - [Bilibili 热榜](https://github.com/xspadex/bilibili-mcp)
 - [LeetCode](https://github.com/jinzcdev/leetcode-mcp-server)
 
